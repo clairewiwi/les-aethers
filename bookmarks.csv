@@ -1,0 +1,147 @@
+# Tag name          ;  color;;;
+music               ; #c0c0c0;;;
+ether               ; #c0c0c0;;;
+*signaux*           ; #c0c0c0;;;
+fresnoy             ; #c0c0c0;;;
+Untagged            ; #c0c0c0;;;
+wierd               ; #c0c0c0;;;
+satelitte           ; #c0c0c0;;;
+;;;;
+# Frequency ; Name                     ; Modulation          ;  Bandwidth; Tags
+40872300; gsm                      ; Raw I/Q             ;5200; *signaux*
+47103900; Service aéronautique, compagnies, contrôle du trafic aérien, communications entre les aéronefs, VOLMET; USB                 ;39900; *signaux*
+54253900; Service aéronautique, compagnies, contrôle du trafic aérien, communications entre les aéronefs, VOLMET; Raw I/Q             ;10000; wierd
+55294300; signal                   ; Raw I/Q             ;10000; fresnoy
+56000000; deep noise               ; Raw I/Q             ;400; wierd
+58386100; Radiodiffusion OC publique longue distance bande des 49 mètres; Raw I/Q             ;2600; wierd
+59389500; wierd                    ; Raw I/Q             ;33200; wierd
+63488500; signal                   ; Raw I/Q             ;10000; fresnoy
+63488500; signal sans son          ; AM                  ;10000; ether
+82957900; MILITAIRE                ; Raw I/Q             ;10000; wierd
+82957900; MILITAIRE                ; USB                 ;2700; wierd
+85760000; SAMU                     ; USB                 ;2700; *signaux*
+86402600; RADIO SONG               ; AM                  ;10000; wierd
+87786400; debut radio              ; AM                  ;10000; fresnoy
+87786400; radio am                 ; WFM (mono)          ;160000; ether
+88196400; radio am                 ; AM                  ;10000; fresnoy
+88200000; radio fm                 ; WFM (mono)          ;160000; ether
+88696400; radio am                 ; AM                  ;10000; fresnoy
+88696400; radio fm                 ; WFM (mono)          ;160000; ether
+89186400; radio                    ; AM                  ;14600; fresnoy
+89186400; radio fm                 ; WFM (mono)          ;160000; ether
+89686400; radio                    ; AM                  ;10000; fresnoy
+89686400; radio fm                 ; WFM (mono)          ;160000; ether
+90386400; radio am                 ; AM                  ;10000; fresnoy
+90386400; radio fm                 ; WFM (mono)          ;160000; ether
+90990800; fm                       ; AM                  ;10000; music
+90990800; radio fm                 ; WFM (mono)          ;160000; ether
+90998900; radio fm                 ; Narrow FM           ;80000; fresnoy
+90998900; radio fm                 ; WFM (mono)          ;160000; ether
+91398900; radio fm                 ; Narrow FM           ;80000; fresnoy
+91398900; radio fm                 ; WFM (mono)          ;160000; ether
+91990000; radio fm                 ; Narrow FM           ;80000; fresnoy
+91990000; radio fm                 ; WFM (mono)          ;160000; ether
+92500000; radio fm                 ; Narrow FM           ;80000; fresnoy
+92500000; radio fm                 ; WFM (mono)          ;160000; Untagged
+93000000; radio fm                 ; Narrow FM           ;80000; fresnoy
+93000000; radio fm                 ; WFM (mono)          ;160000; ether
+93400000; radio fm                 ; Narrow FM           ;80000; fresnoy
+93400000; radio fm                 ; WFM (mono)          ;160000; ether
+93900000; radio fm                 ; Narrow FM           ;80000; fresnoy
+93900000; radio fm                 ; WFM (mono)          ;160000; ether
+94300000; radio fm                 ; Narrow FM           ;80000; fresnoy
+94300000; radio fm                 ; WFM (mono)          ;160000; ether
+94700000; radio fm                 ; Narrow FM           ;80000; fresnoy
+94700000; radio fm                 ; WFM (mono)          ;160000; ether
+95000000; radio fm                 ; Narrow FM           ;80000; fresnoy
+95000000; radio fm                 ; WFM (mono)          ;160000; ether
+95300000; radio fm                 ; Narrow FM           ;80000; fresnoy
+95300000; radio fm                 ; WFM (mono)          ;160000; ether
+99390000; radio fm                 ; Narrow FM           ;80000; fresnoy
+99390000; radio fm                 ; Narrow FM           ;80000; ether
+99790000; radio fm                 ; Narrow FM           ;80000; fresnoy
+99790000; radio fm                 ; WFM (mono)          ;160000; ether
+100090000; radio fm                 ; Narrow FM           ;80000; fresnoy
+100090000; radio fm                 ; WFM (mono)          ;160000; ether
+100352000; signal                   ; Raw I/Q             ;10000; fresnoy
+100701300; radio fm                 ; Narrow FM           ;80000; fresnoy
+100701300; radio fm                 ; WFM (mono)          ;160000; ether
+101301300; radio fm                 ; Narrow FM           ;80000; fresnoy
+101301300; radio fm                 ; WFM (mono)          ;160000; ether
+101801300; radio fm                 ; Narrow FM           ;80000; fresnoy
+101801300; radio fm                 ; WFM (mono)          ;160000; ether
+102101300; radio fm                 ; Narrow FM           ;80000; fresnoy
+102101300; radio fm                 ; WFM (mono)          ;160000; ether
+102601300; radio fm                 ; Narrow FM           ;80000; fresnoy
+102601300; radio fm                 ; WFM (mono)          ;160000; ether
+103001300; radio fm                 ; Narrow FM           ;80000; fresnoy
+103301300; radio fm                 ; Narrow FM           ;80000; fresnoy
+103301300; radio fm                 ; WFM (mono)          ;160000; ether
+103701300; radio fm                 ; Narrow FM           ;80000; fresnoy
+103701300; radio fm                 ; WFM (mono)          ;160000; ether
+103901300; radio fm                 ; Narrow FM           ;80000; fresnoy
+104101300; radiofm                  ; Narrow FM           ;80000; fresnoy
+104101300; radio fm faible          ; WFM (mono)          ;160000; ether
+104586000; radio fm                 ; Narrow FM           ;80000; fresnoy
+104586000; radio fm                 ; WFM (mono)          ;160000; ether
+105186000; radio fm                 ; Narrow FM           ;80000; fresnoy
+105186000; radio fm                 ; WFM (mono)          ;160000; ether
+105986000; radio fm                 ; Narrow FM           ;80000; fresnoy
+105986000; radio fm                 ; WFM (mono)          ;160000; ether
+106586000; radio fm                 ; Narrow FM           ;80000; fresnoy
+106586000; radio fm                 ; WFM (mono)          ;160000; ether
+107886000; radio fm                 ; Narrow FM           ;80000; fresnoy
+107886000; radio fm                 ; WFM (mono)          ;160000; ether
+108541000; signal                   ; Raw I/Q             ;10000; fresnoy
+112641000; signal                   ; Raw I/Q             ;10000; fresnoy
+112641000; signal                   ; Narrow FM           ;10000; ether
+115195000; signal                   ; Raw I/Q             ;10000; fresnoy
+115199800; signal sans son          ; AM                  ;10000; ether
+116732000; signal                   ; Raw I/Q             ;10000; fresnoy
+116735700; signal sans son          ; Narrow FM           ;10000; ether
+116738300; signal sans son          ; Narrow FM           ;10000; ether
+120002000; signal                   ; Raw I/Q             ;10000; fresnoy
+120002000; signal                   ; AM                  ;10000; ether
+137000000; NOAA_15                  ; WFM (mono)          ;160000; satelitte
+137000000; NOAA-15 ok               ; WFM (mono)          ;160000; satelitte
+137214000; NOAA_19                  ; WFM (mono)          ;160000; satelitte
+145850000; SO-50                    ; AM                  ;10000; satelitte
+146450400; militaire                ; Raw I/Q             ;10000; wierd
+167997400; signal                   ; Raw I/Q             ;10000; fresnoy
+375000000; radio astronomie         ; AM                  ;33600; *signaux*
+375000000; radio astro - deep       ; CW-L                ;500; Untagged
+390435900; gendarmerie              ; AM                  ;10000; *signaux*
+390483000; gendarmerie              ; AM                  ;10000; fresnoy
+390635200; signal                   ; Narrow FM           ;10000; Untagged
+390635200; signal                   ; Narrow FM           ;10000; ether
+390764500; signal                   ; Narrow FM           ;17000; ether
+391603900; signal                   ; Narrow FM           ;12000; fresnoy
+391803200; signal                   ; Raw I/Q             ;10000; fresnoy
+392003200; signal                   ; Raw I/Q             ;10000; fresnoy
+392003200; signal                   ; Narrow FM           ;10000; ether
+467348600; signal                   ; USB                 ;2700; fresnoy
+815881700; reseaux prives gsm       ; Raw I/Q             ;15400; fresnoy
+818002400; resaux prives gsm        ; Raw I/Q             ;15400; fresnoy
+926344300; inconnu                  ; AM                  ;12200; fresnoy
+927298800; incoony                  ; LSB                 ;2700; fresnoy
+927542400; inconnu                  ; AM                  ;12200; fresnoy
+927601600; inconnu                  ; LSB                 ;2700; fresnoy
+927601600; signal                   ; AM                  ;10000; ether
+927631000; signal                   ; AM                  ;400; ether
+927655900; signal                   ; AM                  ;10000; ether
+927673000; signal                   ; AM                  ;10000; ether
+941049200; signal                   ; AM                  ;10000; ether
+941650800; inconnu communications gsm; AM                  ;10000; fresnoy
+956380800; inconnu gsm              ; Raw I/Q             ;10000; fresnoy
+957632704; inconnu                  ; Raw I/Q             ;10000; fresnoy
+958403600; signal                   ; AM                  ;10000; ether
+958427800; inconnu                  ; Raw I/Q             ;10000; fresnoy
+958470000; iconnu                   ; Raw I/Q             ;10000; fresnoy
+958470000; iconnu                   ; AM                  ;10000; fresnoy
+958470000; signal                   ; AM                  ;7400; ether
+1200003100; Organisations divers fixes et mobiles; AM                  ;80000; *signaux*
+1218000000; GPS                      ; Raw I/Q             ;30000; *signaux*
+1223060200; fresnoy GPS              ; Raw I/Q             ;30000; fresnoy
+1224000000; GPS                      ; Raw I/Q             ;30000; *signaux*
+1224000000; GPS                      ; USB                 ;3900; Untagged
+1240000000; gps                      ; USB                 ;5500; *signaux*
